@@ -1,0 +1,1 @@
+Il semblerait que pour obtenir le meilleur score, il faudrait juste remplir les NaN avec la méthode linéaire, ajouter le benchmark et c'est tout. De même pas de dropout et peut être un entraînement de 10 epochs. Peut être modifié le batch aussi.

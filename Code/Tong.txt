@@ -1,0 +1,4 @@
+Questions:
+   * Comment tu as fait pour calculer les corrélations ?
+   * J'ai pas compris l'over-fitting de light lgbm
+   * C'est quoi le deuxième tableau 
